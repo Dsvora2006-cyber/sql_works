@@ -80,7 +80,7 @@ A SQL practice project simulating a simple e-commerce/shopping portal database. 
 
 ## 🔗 Connect
 
-- LinkedIn: [linkedin.com/in/darshan-vora2006]
+- LinkedIn: linkedin.com/in/darshan-vora2006
 
 | File | Description |
 |---|---|
